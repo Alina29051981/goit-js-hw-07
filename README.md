@@ -19,14 +19,14 @@ This repository contains on DOM manipulation, event handling, form processing, a
 
 # Task 1 
 Categories List Analysis
-[GitHub Pages Link](https://alina29051981.github.io/goit-js-hw-07/task-1.html)
+[GitHub Pages Link-1](https://alina29051981.github.io/goit-js-hw-07/task-1.html)
 
 - Counted and logged the number of categories.
 - Iterated over each category, extracted the title, and counted the number of items in the sublist.
 
 # Task 2
 Image Gallery Creation
-[GitHub Pages Link](https://alina29051981.github.io/goit-js-hw-07/task-2.html)
+[GitHub Pages Link-2](https://alina29051981.github.io/goit-js-hw-07/task-2.html)
 
 - Selected the gallery container using the DOM.
 - Generated HTML markup for each image using template strings.
@@ -34,7 +34,7 @@ Image Gallery Creation
 
 # Task 3
 Live Name Input Update
-[GitHub Pages Link](https://alina29051981.github.io/goit-js-hw-07/task-3.html)
+[GitHub Pages Link-3](https://alina29051981.github.io/goit-js-hw-07/task-3.html)
 
 - Selected the input field and output.
 - Added an event listener to update the output on typing.
@@ -42,7 +42,7 @@ Live Name Input Update
 
 # Task 4 
 Login Form Handling
-[GitHub Pages Link](https://alina29051981.github.io/goit-js-hw-07/task-4.html)
+[GitHub Pages Link-4](https://alina29051981.github.io/goit-js-hw-07/task-4.html)
 
 - Selected the login form element.
 - Prevented default form submission.
@@ -53,7 +53,7 @@ Login Form Handling
 
 # Task 5 
 Background Color Switcher
-[GitHub Pages Link](https://alina29051981.github.io/goit-js-hw-07/task-5.html)
+[GitHub Pages Link-5](https://alina29051981.github.io/goit-js-hw-07/task-5.html)
 
 - Selected the button for color display using class selectors.
 - Added a click event listener to change the background color.
