@@ -1,7 +1,9 @@
 # DOM, Events, Forms
-This repository contains on DOM manipulation, event handling, form processing, and dynamic UI updates.  
+This repository contains on DOM manipulation, event handling, form processing, and dynamic UI updates. 
 
-![Build Status](https://img.shields.io/github/actions/workflow/status/Alina29051981/goit-js-hw-07/ci.yml?branch=main)
+**Live Demo:**  
+[GitHub Pages Link](https://Alina29051981.github.io/goit-js-hw-07/) 
+
 ![Last Commit](https://img.shields.io/github/last-commit/Alina29051981/goit-js-hw-07)
 ![Repo Size](https://img.shields.io/github/repo-size/Alina29051981/goit-js-hw-07)
 
@@ -10,7 +12,6 @@ This repository contains on DOM manipulation, event handling, form processing, a
 ![CSS3](https://img.shields.io/badge/Styles-CSS3-blue)
 
 ![GitHub stars](https://img.shields.io/github/stars/Alina29051981/goit-js-hw-07?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Alina29051981/goit-js-hw-07?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/Alina29051981/goit-js-hw-07)
 
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%99%A5-red)
